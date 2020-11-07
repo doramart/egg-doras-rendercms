@@ -1,6 +1,6 @@
 {
   "name": "egg-doras-rendercms",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "renderCms",
   "eggPlugin": {
     "name": "doraRenderCms"
